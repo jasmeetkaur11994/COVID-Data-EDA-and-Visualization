@@ -1,2 +1,2 @@
-# COVID-Data-EDA-and-Visualization
+# COVID 19 Data EDA and Visualization
 This project involves performing exploratory data analysis (EDA) and visualization on COVID-19 data, which includes information on the number of cases, deaths, and recoveries across various countries and regions. The data was collected from reliable sources, such as the World Health Organization (WHO). The aim of the project is to gain insights into the spread of the pandemic, identify the most affected regions, and analyze the effectiveness of interventions and control measures. This project project performed data cleaning, manipulation, and Exploratory Data Aanalysis(EDA) using Python, and  statistical analysis and data visualization techniques were performed using Tableau. 
